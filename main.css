@@ -1,0 +1,13 @@
+body, html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Montserrat';
+}
+
+h1 {
+  margin: 5rem;
+}
+/*# sourceMappingURL=main.css.map */
